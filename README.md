@@ -5,7 +5,7 @@ An end-to-end machine learning project to predict housing prices using advanced 
 ## Project Overview 
 
 This project aims to predict residential home prices based on various features such as square footage, number of rooms, location, and other relevant attributes. 
-Using regression models and feature engineering techniques, we've developed a robust predictive model that can assist in real estate valuation.
+Using regression models and feature engineering techniques, I've developed a robust predictive model that can assist in real estate valuation.
 
 ## Dataset
 The dataset contains 1460 residential properties with 79 explanatory variables describing various aspects of the homes. Key features include:
